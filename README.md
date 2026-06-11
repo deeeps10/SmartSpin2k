@@ -3,5 +3,5 @@ This project focuses on reverse engineering 3D geometry from STL files to recrea
 volumetric difference -
 *Knob_Cup_V2-0.2%
 *60mm-0.47%
-*65mm-
-plug-0.02
+*plug-0.02
+*pooboo-0.0870%
