@@ -1,1 +1,27 @@
 # SmartSpin2k
+This project focuses on reverse engineering 3D geometry from STL files to recreate accurate parametric models. The process begins by converting the STL mesh into a solid body in Autodesk Fusion 360, enabling access to parametric features. Key coordinates and dimensions of various sketch profiles and features—such as extrudes, cuts, and revolves—are then measured to replicate the original design. These feature details are fed into Antigravity/vscode and with the assistance of Claude, a build123d script is generated. Running this script produces a reconstructed 3D model that closely matches the original geometry. To validate accuracy, the volume of the generated model is compared with the original using code . the refernce and generated files are compared in the code itself.also another validation code is added that compares the stl files in the folder .
+
+volumetric difference -
+
+*Knob_Cup_V2-0.2%
+*60mm-0.47%
+*65mm-0.211
+*plug-0.02%
+*pooboo-0.0870%
+*armwithhook20-0.04%
+*armwithhook25-0.0047%
+*armwithhook30-0.022%
+*armwithhook35-0.026%
+*armwithhook40-0.013%
+*armwithhook45-0.013%
+*50mm-0.068%
+*armwithhook50-0.01%
+*armwithhook55-0.012%
+*armwithhook60-0.01%
+*armwithhook65-0.01%
+*armwithhook70-0.012%
+*armwithhook75-0.01%
+*armwithhook80-0.009%
+*armwithhook85-0.008%
+*armwithhook90-0.005%
+*armwithhook95-0.0081%
