@@ -43,4 +43,5 @@ volumetric difference -
 *armwithhook150-0.004%
 *armwithhook155-0.003%
 *bowflex-0.38%
-*
+*BH SB3 spinbike Insert v2-0.06%
+*Mounting_StrapV2_XL-0.12%
