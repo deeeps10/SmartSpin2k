@@ -49,4 +49,4 @@ volumetric difference -
 *Spur gear 1M 30T-0.23%
 *Spur gear 1M 31T-0.025
 *Spur gear 1M 40T Hex-0.22%
-*Mounting_Strap_Rigid-
+*Mounting_Strap_Rigid-0.088%
