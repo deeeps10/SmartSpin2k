@@ -45,3 +45,8 @@ volumetric difference -
 *bowflex-0.38%
 *BH SB3 spinbike Insert v2-0.06%
 *Mounting_StrapV2_XL-0.12%
+*Mounting_StrapV2-0.07%
+*Spur gear 1M 30T-0.23%
+*Spur gear 1M 31T-0.025
+*Spur gear 1M 40T Hex-0.22%
+*Mounting_Strap_Rigid-
