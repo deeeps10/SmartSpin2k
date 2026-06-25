@@ -50,3 +50,8 @@ volumetric difference -
 *Spur gear 1M 31T-0.025
 *Spur gear 1M 40T Hex-0.22%
 *Mounting_Strap_Rigid-0.088%
+*Insert1-0.023%
+*Insert2-0.13%
+*Insert3-0.06%
+*Mounting_For_New_Case-0.051%
+*BH SB3 spinbike Insert v3-0.13%
