@@ -61,7 +61,7 @@ volumetric difference -
 *Spur gear 1M 11T_1-0.33%
 *Spur gear 1M 11T-0.05%
 *Schwinn_Insert-0.2%
-*FLYWHEEL_54.5mm%
+*FLYWHEEL_54.5mm-0.8%
 *bolt_arm-0.02
 *bolt through arm-0.02
 *BakerEchelonStrap-0.011
