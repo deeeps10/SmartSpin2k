@@ -55,3 +55,8 @@ volumetric difference -
 *Insert3-0.06%
 *Mounting_For_New_Case-0.051%
 *BH SB3 spinbike Insert v3-0.13%
+*LoganRetentionClip-0.005%
+*Revmaster-Spin_Adaptor-0.02%
+*Spur gear 1M 11T-0.03%
+*Spur gear 1M 11T_1-0.33%
+*Spur gear 1M 11T-0.05%
