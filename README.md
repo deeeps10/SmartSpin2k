@@ -70,4 +70,4 @@ volumetric difference -
 *HMC_For_Large_Cup-0.16%
 *HMC_Insert-0.021%
 *ProForm_Insert-0.03%
-*ProForm_Insert-0.38%
+*Tall_cover-0.38%
