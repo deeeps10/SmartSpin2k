@@ -66,3 +66,8 @@ volumetric difference -
 *bolt through arm-0.02
 *BakerEchelonStrap-0.011
 *Tall_Cover_w_brace-0.006%
+*Golds_Gym_300_Hard_41mm-0.09%
+*HMC_For_Large_Cup-0.16%
+*HMC_Insert-0.021%
+*ProForm_Insert-0.03%
+*Tall_cover-0.38%
