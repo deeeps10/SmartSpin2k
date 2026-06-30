@@ -66,3 +66,5 @@ volumetric difference -
 *bolt through arm-0.02
 *BakerEchelonStrap-0.011
 *Tall_Cover_w_brace-0.006%
+*Golds_Gym_300_Hard_41mm-0.09%
+*
