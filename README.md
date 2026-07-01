@@ -71,3 +71,7 @@ volumetric difference -
 *HMC_Insert-0.021%
 *ProForm_Insert-0.03%
 *Tall_cover-0.38%
+*test_housing-0.0011%
+*Soldering Jig-0.0013%
+*YosudaL-007C0.0039
+*PositiveRetentionClip_30mm-0.007%
